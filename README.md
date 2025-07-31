@@ -14,6 +14,16 @@ The main objectives of this analysis are to:
 - Discover trends in order patterns and customer behavior
 - Provide actionable business insights for decision-making
 
+### Power BI Dashboard
+
+<!-- Insert Power BI dashboard screenshots here -->
+
+![Power BI Dashboard Overview](images/powerbi_dashboard_overview.png)
+
+![Power BI Regional Analysis](images/powerbi_regional_analysis.png)
+
+![Power BI Product Analysis](images/powerbi_product_analysis.png)
+
 ## 📁 Project Structure
 
 ```
@@ -192,50 +202,6 @@ This analysis provides valuable insights for:
 - **SQL Results**: Business question answers and metrics
 - **Python Visualizations**: Charts, graphs, and statistical summaries
 - **Power BI Report**: Professional dashboard for stakeholder presentation
-
-## 📸 Visual Outputs & Screenshots
-
-### Power BI Dashboard
-
-<!-- Insert Power BI dashboard screenshots here -->
-
-![Power BI Dashboard Overview](images/powerbi_dashboard_overview.png)
-_Main dashboard showing key performance indicators and sales metrics_
-
-![Power BI Regional Analysis](images/powerbi_regional_analysis.png)
-_Regional sales performance and geographic distribution_
-
-![Power BI Product Analysis](images/powerbi_product_analysis.png)
-_Product category performance and trends_
-
-### Python Analysis Visualizations
-
-<!-- Insert Python matplotlib/seaborn charts here -->
-
-![Sales Trends Over Time](images/python_sales_trends.png)
-_Time series analysis of sales performance_
-
-![Customer Segmentation Analysis](images/python_customer_segments.png)
-_Customer segment distribution and performance_
-
-![Product Category Performance](images/python_category_performance.png)
-_Product category sales comparison_
-
-![Regional Sales Distribution](images/python_regional_distribution.png)
-_Geographic sales distribution across regions_
-
-### SQL Query Results
-
-<!-- Insert screenshots of key SQL query outputs here -->
-
-![Top Customers Analysis](images/sql_top_customers.png)
-_Top 3 customers with highest order values_
-
-![Shipping Performance Metrics](images/sql_shipping_metrics.png)
-_Same-day shipping percentage and delivery analysis_
-
-![Product Demand Analysis](images/sql_product_demand.png)
-_Most demanded products by region_
 
 ---
 
